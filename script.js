@@ -1,4 +1,5 @@
-const dropzoneBox = document.getElementsByClassName("dropzone-box")[0];
+const dropzoneBox = 
+document.getElementsByClassName("dropzone-box")[0];
 
 const inputFiles = document.querySelectorAll(
   ".dropzone-area input[type='file']"
